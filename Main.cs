@@ -7,7 +7,7 @@ public partial class Main : Node2D
 
     public override void _Ready()
 	{
-		GD.Print("Hola Tapia :C");
+		GD.Print("Hola Tapia :C, Prueba 2 :V");
 		GD.Print(What);
 		
 	}
